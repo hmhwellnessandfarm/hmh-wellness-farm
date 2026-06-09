@@ -1,0 +1,1460 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HMH Wellness &amp; Farm | Family Heritage, Retreats, Camping &amp; Fishing in Stillmore, GA</title>
+    <meta
+      name="description"
+      content="HMH Wellness &amp; Farm is a family-owned property in Stillmore, Georgia offering wellness retreats, camping, fishing, outdoor education, events, and family heritage experiences."
+    />
+    <meta name="theme-color" content="#1F4D36" />
+    <meta property="og:title" content="HMH Wellness &amp; Farm" />
+    <meta
+      property="og:description"
+      content="Honoring Our Heritage. Building Wellness Through Nature."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/hmh-camping-site.jpg" />
+    <link rel="preload" as="image" href="assets/hmh-camping-site.jpg" />
+    <link rel="icon" href="assets/hmh-wellness-logo.jpeg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <a class="brand" href="#home" aria-label="HMH Wellness &amp; Farm home">
+        <img class="brand-logo" src="assets/hmh-wellness-logo.jpeg" alt="HMH Wellness logo" />
+        <span>
+          <strong>HMH Wellness &amp; Farm</strong>
+          <small>Stillmore, Georgia</small>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" data-nav-toggle>
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="site-nav" data-nav>
+        <a href="#home">Home</a>
+        <a href="#family">About Our Family</a>
+        <a href="#retreats">Retreats</a>
+        <a href="#camping">Camping</a>
+        <a href="#fishing">Fishing</a>
+        <a href="#events">Events</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#merch">Merch</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero section" id="home" aria-label="HMH Wellness &amp; Farm">
+        <div class="hero-media" role="img" aria-label="HMH Wellness &amp; Farm campsite at sunset with trees and open field"></div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content reveal">
+          <p class="eyebrow">HMH Wellness &amp; Farm</p>
+          <h1>Over 100 Years of Family Heritage in Emanuel County, Georgia</h1>
+          <p class="hero-copy">
+            HMH Wellness &amp; Farm is a family-owned property in Stillmore, Georgia dedicated to wellness,
+            outdoor recreation, education, camping, fishing, and community connection.
+          </p>
+          <div class="hero-actions">
+            <a class="btn primary" href="#booking">Book a Visit</a>
+            <a class="btn secondary" href="#family">Learn Our Story</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="intro-band" aria-label="Tagline">
+        <p>"Honoring Our Heritage. Building Wellness Through Nature."</p>
+      </section>
+
+      <section class="section two-column" id="family">
+        <div class="section-copy reveal">
+          <p class="eyebrow">About Our Family</p>
+          <h2>A Legacy Rooted in the Soil</h2>
+          <p>
+            The land behind HMH Wellness &amp; Farm has remained in the family for more than 100 years.
+            Its story is grounded in the work, care, faith, and determination of generations who
+            understood the value of protecting land and passing it forward.
+          </p>
+          <p>
+            Born on October 3, 1902 in Emanuel County, Georgia, Harry Baldwin was raised in a
+            hardworking farming family and helped continue the agricultural traditions passed down
+            through generations. His parents, Charlie Baldwin and Mattie Cotton Baldwin, lived and
+            worked in the Swainsboro and Stillmore communities during the early 1900s.
+          </p>
+          <p>
+            The Baldwin family worked the land, raised crops, and contributed to the local agricultural
+            economy during a time when land ownership was a significant achievement for African
+            American families in the rural South.
+          </p>
+        </div>
+        <aside class="heritage-panel reveal">
+          <span class="panel-kicker">Family Heritage</span>
+          <h3>Harry Baldwin</h3>
+          <ul>
+            <li>Born October 3, 1902</li>
+            <li>Emanuel County, Georgia</li>
+            <li>Son of Charlie Baldwin and Mattie Cotton Baldwin</li>
+            <li>Raised in farming, faith, stewardship, and family</li>
+          </ul>
+          <div class="line"></div>
+          <h3>Lafayette Baldwin</h3>
+          <p>
+            Lafayette Baldwin helped continue the family's farming traditions and commitment to the
+            land, strengthening a legacy of work, responsibility, and respect for the soil.
+          </p>
+        </aside>
+      </section>
+
+      <section class="section legacy-section">
+        <figure class="founders-photo reveal">
+          <img src="assets/hmh-founders.jpg" alt="HMH Wellness &amp; Farm founders Hunter Reed and Heidi B. Fuller standing together outdoors" />
+          <figcaption>Founders Hunter Reed and Heidi B. Fuller</figcaption>
+        </figure>
+        <div class="section-copy reveal">
+          <p class="eyebrow">Current Generation</p>
+          <h2>Continuing the Legacy</h2>
+          <p>
+            HMH Wellness &amp; Farm was founded by Hunter Reed and Heidi B. Fuller. Together, they
+            are preserving the family's land while creating new opportunities for wellness,
+            education, recreation, and outdoor experiences.
+          </p>
+          <p>
+            Hunter Reed is an entrepreneur, outdoor enthusiast, and community builder.
+            Heidi B. Fuller brings family leadership, vision, and a deep commitment to honoring the
+            land, the ancestors, and the generations still to come.
+          </p>
+          <div class="pill-row" aria-label="Founder roles">
+            <span>Founders</span>
+            <span>Entrepreneur</span>
+            <span>Family Stewardship</span>
+            <span>Outdoor Enthusiast</span>
+            <span>Community Builder</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section feature-section" id="retreats">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Retreats &amp; Wellness</p>
+          <h2>Rest, Reflect, and Reconnect Outdoors</h2>
+          <p>
+            Wellness programs at HMH Wellness &amp; Farm are designed around the healing rhythm of nature,
+            quiet space, meaningful connection, and personal growth.
+          </p>
+        </div>
+        <div class="card-grid five">
+          <article class="feature-card reveal"><span>01</span><h3>Stress Reduction</h3><p>Slow down in open air and step away from everyday pressure.</p></article>
+          <article class="feature-card reveal"><span>02</span><h3>Nature Therapy</h3><p>Use the farm's fields, pond, and trails as a restorative setting.</p></article>
+          <article class="feature-card reveal"><span>03</span><h3>Outdoor Mindfulness</h3><p>Practice reflection, breathing, movement, and grounded awareness.</p></article>
+          <article class="feature-card reveal"><span>04</span><h3>Community Connection</h3><p>Gather with intention through shared meals, circles, and activities.</p></article>
+          <article class="feature-card reveal"><span>05</span><h3>Personal Growth</h3><p>Create space for clarity, leadership, healing, and forward movement.</p></article>
+        </div>
+        <div class="program-strip reveal">
+          <span>Wellness Retreats</span>
+          <span>Veterans Retreats</span>
+          <span>Leadership Retreats</span>
+          <span>Family Gatherings</span>
+          <span>Youth Outdoor Programs</span>
+        </div>
+      </section>
+
+      <section class="section split-band" id="camping">
+        <div class="section-copy reveal">
+          <p class="eyebrow">Camping &amp; Outdoor Adventures</p>
+          <h2>Simple, Scenic Stays Close to the Land</h2>
+          <p>
+            HMH Wellness &amp; Farm welcomes primitive camping, group camping, weekend getaways, and tent
+            camping for guests who want quiet space, fresh air, and a deeper connection to nature.
+          </p>
+          <div class="amenity-list">
+            <span>Open fields</span>
+            <span>Wooded areas</span>
+            <span>Scenic views</span>
+            <span>Pond access</span>
+            <span>Nature trails</span>
+            <span>Campfire gathering spaces</span>
+          </div>
+        </div>
+        <div class="visual-card camping-visual reveal" aria-label="RV and tent camping on the farm at sunset"></div>
+      </section>
+
+      <section class="section split-band reverse" id="fishing">
+        <div class="visual-card fishing-visual reveal" aria-label="Quiet pond surrounded by trees on the property"></div>
+        <div class="section-copy reveal">
+          <p class="eyebrow">Fishing Experiences</p>
+          <h2>Peaceful Pond Time for All Ages</h2>
+          <p>
+            Fishing at HMH Wellness &amp; Farm is relaxed, family-friendly, and centered on enjoying the
+            outdoors together. Guests can experience catch-and-release fishing, nature observation, and
+            quiet time near the water.
+          </p>
+          <div class="check-list">
+            <p>Relaxing fishing experiences</p>
+            <p>Family-friendly outdoor recreation</p>
+            <p>Catch-and-release opportunities</p>
+            <p>Nature observation</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section events-section" id="events">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Events</p>
+          <h2>Gatherings with Meaning and Room to Breathe</h2>
+          <p>
+            The farm is being shaped as a welcoming place for family reunions, wellness events,
+            outdoor workshops, community gatherings, and educational experiences.
+          </p>
+        </div>
+        <div class="event-grid">
+          <article class="event-card reveal"><h3>Family Reunions</h3><p>Bring generations together in a place built on family legacy.</p></article>
+          <article class="event-card reveal"><h3>Wellness Events</h3><p>Host restorative programs in a peaceful natural setting.</p></article>
+          <article class="event-card reveal"><h3>Outdoor Workshops</h3><p>Teach practical skills, land care, nature awareness, and leadership.</p></article>
+          <article class="event-card reveal"><h3>Community Gatherings</h3><p>Create connection through shared learning, meals, and celebration.</p></article>
+          <article class="event-card reveal"><h3>Educational Experiences</h3><p>Introduce youth and families to farming heritage and outdoor life.</p></article>
+        </div>
+      </section>
+
+      <section class="section gallery-section" id="gallery">
+        <div class="section-heading reveal">
+          <p class="eyebrow">Gallery</p>
+          <h2>Scenes from the Land</h2>
+        </div>
+        <div class="gallery-grid">
+          <figure class="gallery-item large reveal"><img src="assets/hmh-camping-site.jpg" alt="RV and tent camping in an open field at HMH Wellness &amp; Farm" /><figcaption>Camping</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-pond.jpg" alt="Pond surrounded by trees for fishing and quiet reflection" /><figcaption>Fishing Pond</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-tree-road.jpg" alt="Tree-covered dirt road leading through the property" /><figcaption>Nature Trails</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-open-field.jpg" alt="Open farm field bordered by trees under a bright sky" /><figcaption>Open Fields</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-heritage-moment.jpg" alt="Two people sitting together outdoors looking over the land at sunset" /><figcaption>Family Heritage</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-hunter-outdoors.jpg" alt="Hunter Reed outdoors on the farm with a Jeep" /><figcaption>Outdoor Leadership</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-bass-fish.jpg" alt="Largemouth bass held gently above pond water for catch and release" /><figcaption>Bass Fishing</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-deer-wildlife.jpg" alt="White-tailed deer standing near a wooded farm field" /><figcaption>Wildlife</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-quail-wildlife.jpg" alt="Bobwhite quail standing in grass near a wooded farm field" /><figcaption>Quail</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-glamping-tents.jpg" alt="Canvas glamping tents set up in an open farm field at golden hour" /><figcaption>Glamping Tents</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-people-camping.jpg" alt="People camping together in a peaceful open farm field at sunset" /><figcaption>Group Camping</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-nature-walk.jpg" alt="People walking along a quiet dirt road beneath a green tree canopy" /><figcaption>Nature Walks</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-family-camping-guests.jpg" alt="Guest family relaxing at a tent campsite in an open farm field" /><figcaption>Guest Camping</figcaption></figure>
+          <figure class="gallery-item reveal"><img src="assets/hmh-guest-nature-walk.jpg" alt="Guests walking along a quiet wooded farm road" /><figcaption>Guest Nature Walk</figcaption></figure>
+        </div>
+      </section>
+
+      <section class="section merch-section" id="merch">
+        <div class="section-heading reveal">
+          <p class="eyebrow">HMH Merch</p>
+          <h2>Wear the Legacy</h2>
+          <p>
+            HMH Wellness &amp; Farm apparel will feature the HMH Wellness logo on comfortable shirts
+            and hats made for outdoor days, retreats, family gatherings, and everyday wear.
+          </p>
+        </div>
+        <div class="merch-grid">
+          <article class="merch-card reveal">
+            <div class="merch-visual shirt-visual" aria-label="HMH Wellness logo shirt mockup">
+              <div class="shirt-mockup">
+                <img src="assets/hmh-wellness-logo.jpeg" alt="HMH Wellness logo on shirt" />
+              </div>
+            </div>
+            <div class="merch-copy">
+              <span class="merch-status">Coming Soon</span>
+              <h3>Logo T-Shirts</h3>
+              <p>Soft everyday shirts with the HMH Wellness mark on forest green, white, and black options.</p>
+              <a class="btn merch-btn" href="#booking">Ask About Shirts</a>
+            </div>
+          </article>
+          <article class="merch-card reveal">
+            <div class="merch-visual hat-visual" aria-label="HMH Wellness logo hat mockup">
+              <div class="hat-mockup">
+                <span class="hat-crown"><img src="assets/hmh-wellness-logo.jpeg" alt="HMH Wellness logo on hat" /></span>
+                <span class="hat-bill"></span>
+              </div>
+            </div>
+            <div class="merch-copy">
+              <span class="merch-status">Coming Soon</span>
+              <h3>Logo Hats</h3>
+              <p>Outdoor-ready caps designed for camping, fishing, field days, and representing the farm.</p>
+              <a class="btn merch-btn" href="#booking">Ask About Hats</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section contact-section" id="contact">
+        <div class="contact-copy reveal">
+          <p class="eyebrow">Contact</p>
+          <h2>Plan a Visit, Retreat, or Gathering</h2>
+          <p>
+            Share a few details and HMH Wellness &amp; Farm will follow up about booking inquiries,
+            visits, retreats, camping, fishing, events, or future programs.
+          </p>
+          <div class="socials" aria-label="Social media links">
+            <a href="#" aria-label="Facebook">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 8h3V4h-3c-3 0-5 2-5 5v2H6v4h3v5h4v-5h3l1-4h-4V9c0-.6.4-1 1-1Z"/></svg>
+            </a>
+            <a href="#" aria-label="Instagram">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm5 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm6-.8a1.2 1.2 0 1 0 0-2.4 1.2 1.2 0 0 0 0 2.4ZM12 10a2 2 0 1 1 0 4 2 2 0 0 1 0-4Z"/></svg>
+            </a>
+            <a href="#" aria-label="YouTube">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.6 7.2a3 3 0 0 0-2.1-2.1C17.7 4.6 12 4.6 12 4.6s-5.7 0-7.5.5a3 3 0 0 0-2.1 2.1A31 31 0 0 0 2 12a31 31 0 0 0 .4 4.8 3 3 0 0 0 2.1 2.1c1.8.5 7.5.5 7.5.5s5.7 0 7.5-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 22 12a31 31 0 0 0-.4-4.8ZM10 15.3V8.7l5.5 3.3L10 15.3Z"/></svg>
+            </a>
+          </div>
+        </div>
+        <form class="contact-form reveal" id="booking" novalidate>
+          <h3>Booking Inquiry</h3>
+          <label>
+            Name
+            <input name="name" type="text" autocomplete="name" required minlength="2" />
+            <small class="error">Please enter your name.</small>
+          </label>
+          <label>
+            Email
+            <input name="email" type="email" autocomplete="email" required />
+            <small class="error">Please enter a valid email address.</small>
+          </label>
+          <label>
+            Phone
+            <input name="phone" type="tel" autocomplete="tel" required pattern="[0-9()#&amp;+*\\-=.\\s]{7,}" />
+            <small class="error">Please enter a valid phone number.</small>
+          </label>
+          <label>
+            Message
+            <textarea name="message" rows="5" required minlength="10"></textarea>
+            <small class="error">Please tell us a little about your visit.</small>
+          </label>
+          <button class="btn primary" type="submit">Send Inquiry</button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <img class="footer-logo" src="assets/hmh-wellness-logo.jpeg" alt="HMH Wellness logo" />
+      <strong>HMH Wellness &amp; Farm</strong>
+      <p>"Preserving Family Legacy Through Nature, Wellness, and Community."</p>
+      <small>&copy; <span id="year"></span> HMH Wellness &amp; Farm. All rights reserved.</small>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+const header = document.querySelector("[data-header]");
+const nav = document.querySelector("[data-nav]");
+const navToggle = document.querySelector("[data-nav-toggle]");
+const navLinks = [...document.querySelectorAll(".site-nav a")];
+const sections = [...document.querySelectorAll("main section[id]")];
+const form = document.querySelector(".contact-form");
+const statusEl = document.querySelector(".form-status");
+
+document.getElementById("year").textContent = new Date().getFullYear();
+
+function syncHeader() {
+  header.classList.toggle("scrolled", window.scrollY > 20);
+}
+
+syncHeader();
+window.addEventListener("scroll", syncHeader, { passive: true });
+
+navToggle.addEventListener("click", () => {
+  const isOpen = nav.classList.toggle("open");
+  header.classList.toggle("nav-open", isOpen);
+  navToggle.setAttribute("aria-expanded", String(isOpen));
+});
+
+navLinks.forEach((link) => {
+  link.addEventListener("click", () => {
+    nav.classList.remove("open");
+    header.classList.remove("nav-open");
+    navToggle.setAttribute("aria-expanded", "false");
+  });
+});
+
+const sectionObserver = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+      const active = navLinks.find((link) => link.getAttribute("href") === `#${entry.target.id}`);
+      navLinks.forEach((link) => link.classList.remove("active"));
+      active?.classList.add("active");
+    });
+  },
+  { rootMargin: "-35% 0px -55% 0px", threshold: 0 }
+);
+
+sections.forEach((section) => sectionObserver.observe(section));
+
+const revealObserver = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("is-visible");
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  },
+  { threshold: 0.16 }
+);
+
+document.querySelectorAll(".reveal").forEach((element) => revealObserver.observe(element));
+
+function validateField(field) {
+  const wrapper = field.closest("label");
+  const isValid = field.checkValidity();
+  wrapper.classList.toggle("invalid", !isValid);
+  return isValid;
+}
+
+form.querySelectorAll("input, textarea").forEach((field) => {
+  field.addEventListener("blur", () => validateField(field));
+  field.addEventListener("input", () => {
+    if (field.closest("label").classList.contains("invalid")) validateField(field);
+  });
+});
+
+form.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const fields = [...form.querySelectorAll("input, textarea")];
+  const isValid = fields.every(validateField);
+
+  if (!isValid) {
+    statusEl.textContent = "Please check the highlighted fields.";
+    return;
+  }
+
+  statusEl.textContent = "Thank you. Your inquiry is ready to send.";
+  form.reset();
+});
+
+:root {
+  --green: #1f4d36;
+  --green-dark: #123120;
+  --green-soft: #e9f0eb;
+  --gold: #d4af37;
+  --gold-soft: #f8efd0;
+  --white: #ffffff;
+  --black: #141414;
+  --ink: #263027;
+  --muted: #667066;
+  --line: rgba(31, 77, 54, 0.16);
+  --shadow: 0 22px 70px rgba(18, 49, 32, 0.16);
+  --radius: 8px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--white);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+img,
+svg {
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-header {
+  position: fixed;
+  inset: 0 0 auto;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  padding: 16px clamp(18px, 4vw, 56px);
+  color: var(--white);
+  transition: background 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+}
+
+.site-header.scrolled,
+.site-header.nav-open {
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 12px 40px rgba(20, 20, 20, 0.08);
+  backdrop-filter: blur(14px);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 220px;
+}
+
+.brand-logo {
+  width: 68px;
+  height: 50px;
+  padding: 5px;
+  border: 1px solid rgba(212, 175, 55, 0.65);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.94);
+  object-fit: contain;
+  box-shadow: 0 10px 24px rgba(18, 49, 32, 0.16);
+}
+
+.brand strong {
+  display: block;
+  font-size: 0.98rem;
+  line-height: 1.15;
+}
+
+.brand small {
+  display: block;
+  font-size: 0.76rem;
+  opacity: 0.82;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(12px, 1.5vw, 24px);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.site-nav a {
+  position: relative;
+  padding: 8px 0;
+}
+
+.site-nav a::after {
+  position: absolute;
+  right: 0;
+  bottom: 1px;
+  left: 0;
+  height: 2px;
+  content: "";
+  background: var(--gold);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.2s ease;
+}
+
+.site-nav a:hover::after,
+.site-nav a.active::after {
+  transform: scaleX(1);
+}
+
+.nav-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  padding: 10px;
+  border: 1px solid rgba(212, 175, 55, 0.55);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.nav-toggle span {
+  display: block;
+  height: 2px;
+  margin: 5px 0;
+  background: currentColor;
+}
+
+.section {
+  scroll-margin-top: 88px;
+  padding: clamp(72px, 9vw, 124px) clamp(18px, 5vw, 72px);
+}
+
+.hero {
+  position: relative;
+  display: grid;
+  min-height: 96vh;
+  align-items: center;
+  padding-top: 118px;
+  overflow: hidden;
+  color: var(--white);
+}
+
+.hero-media,
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+}
+
+.hero-media {
+  background-image: url("assets/hmh-camping-site.jpg");
+  background-position: center 58%;
+  background-size: cover;
+  transform: scale(1.02);
+}
+
+.hero-overlay {
+  background:
+    linear-gradient(90deg, rgba(18, 49, 32, 0.92) 0%, rgba(18, 49, 32, 0.72) 42%, rgba(18, 49, 32, 0.18) 100%),
+    linear-gradient(0deg, rgba(18, 49, 32, 0.45), rgba(18, 49, 32, 0.08));
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  width: min(780px, 100%);
+}
+
+.eyebrow {
+  margin: 0 0 12px;
+  color: var(--gold);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  overflow-wrap: break-word;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: inherit;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: 0;
+}
+
+h1 {
+  max-width: 760px;
+  font-size: clamp(3rem, 7vw, 6.7rem);
+}
+
+h2 {
+  font-size: clamp(2.1rem, 4.2vw, 4rem);
+}
+
+h3 {
+  font-size: clamp(1.25rem, 2vw, 1.6rem);
+}
+
+.hero-copy {
+  max-width: 680px;
+  margin: 24px 0 0;
+  color: rgba(255, 255, 255, 0.91);
+  font-size: clamp(1.05rem, 1.8vw, 1.28rem);
+}
+
+.hero-actions,
+.pill-row,
+.program-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.hero-actions {
+  margin-top: 32px;
+}
+
+.btn {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 22px;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  font-weight: 800;
+  transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.btn.primary {
+  background: var(--gold);
+  color: var(--black);
+}
+
+.btn.secondary {
+  border-color: rgba(255, 255, 255, 0.55);
+  color: var(--white);
+}
+
+.intro-band {
+  display: grid;
+  min-height: 116px;
+  place-items: center;
+  padding: 28px 18px;
+  background: var(--green);
+  color: var(--white);
+  text-align: center;
+}
+
+.intro-band p {
+  margin: 0;
+  color: var(--gold-soft);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.3rem, 2.6vw, 2.35rem);
+}
+
+.two-column,
+.legacy-section,
+.split-band,
+.contact-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.7fr);
+  gap: clamp(32px, 6vw, 78px);
+  align-items: center;
+}
+
+.section-copy p,
+.section-heading p,
+.contact-copy p {
+  max-width: 760px;
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-size: 1.04rem;
+}
+
+.heritage-panel,
+.feature-card,
+.event-card,
+.contact-form {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  box-shadow: var(--shadow);
+}
+
+.heritage-panel {
+  padding: clamp(24px, 4vw, 38px);
+}
+
+.panel-kicker {
+  display: inline-block;
+  margin-bottom: 18px;
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.heritage-panel ul {
+  padding-left: 20px;
+  margin: 18px 0 0;
+}
+
+.heritage-panel li {
+  margin: 10px 0;
+}
+
+.heritage-panel p {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
+.line {
+  height: 1px;
+  margin: 28px 0;
+  background: var(--line);
+}
+
+.legacy-section,
+.feature-section,
+.gallery-section {
+  background: var(--green-soft);
+}
+
+.founders-photo,
+.visual-card {
+  min-height: 470px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.founders-photo {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  background: var(--green-dark);
+}
+
+.founders-photo img {
+  width: 100%;
+  height: 100%;
+  min-height: 470px;
+  object-fit: cover;
+  object-position: center 38%;
+}
+
+.founders-photo::after {
+  position: absolute;
+  inset: auto 0 0;
+  height: 34%;
+  content: "";
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.72));
+}
+
+.founders-photo figcaption {
+  position: absolute;
+  z-index: 1;
+  left: 18px;
+  right: 18px;
+  bottom: 16px;
+  color: var(--white);
+  font-weight: 900;
+}
+
+.visual-card {
+  background-image: linear-gradient(rgba(31, 77, 54, 0.1), rgba(31, 77, 54, 0.1)), url("assets/hmh-open-field.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.pill-row {
+  margin-top: 26px;
+}
+
+.pill-row span,
+.program-strip span,
+.amenity-list span {
+  border: 1px solid rgba(31, 77, 54, 0.18);
+  border-radius: 999px;
+  background: var(--white);
+  color: var(--green);
+  font-size: 0.92rem;
+  font-weight: 800;
+  padding: 9px 13px;
+}
+
+.section-heading {
+  max-width: 840px;
+  margin: 0 auto 42px;
+  text-align: center;
+}
+
+.card-grid,
+.event-grid,
+.gallery-grid {
+  display: grid;
+  gap: 18px;
+}
+
+.card-grid.five {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.feature-card,
+.event-card {
+  padding: 24px;
+}
+
+.feature-card span {
+  display: inline-grid;
+  width: 42px;
+  height: 42px;
+  margin-bottom: 20px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--gold-soft);
+  color: var(--green);
+  font-weight: 900;
+}
+
+.feature-card p,
+.event-card p {
+  margin: 12px 0 0;
+  color: var(--muted);
+}
+
+.program-strip {
+  justify-content: center;
+  margin-top: 26px;
+}
+
+.split-band.reverse {
+  grid-template-columns: minmax(320px, 0.7fr) minmax(0, 1.05fr);
+  background: #fbfaf5;
+}
+
+.camping-visual {
+  background-image: linear-gradient(rgba(31, 77, 54, 0.08), rgba(31, 77, 54, 0.08)), url("assets/hmh-people-camping.jpg");
+  background-position: center;
+}
+
+.fishing-visual {
+  background-image: linear-gradient(rgba(31, 77, 54, 0.08), rgba(31, 77, 54, 0.08)), url("assets/hmh-pond.jpg");
+  background-position: center 62%;
+}
+
+.amenity-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.check-list {
+  display: grid;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.check-list p {
+  position: relative;
+  margin: 0;
+  padding-left: 34px;
+  color: var(--ink);
+  font-weight: 800;
+}
+
+.check-list p::before {
+  position: absolute;
+  left: 0;
+  top: 2px;
+  display: grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--green);
+  color: var(--gold);
+  content: "";
+}
+
+.check-list p::after {
+  position: absolute;
+  left: 8px;
+  top: 7px;
+  width: 6px;
+  height: 10px;
+  border: solid var(--gold);
+  border-width: 0 2px 2px 0;
+  content: "";
+  transform: rotate(45deg);
+}
+
+.events-section {
+  background: var(--green);
+  color: var(--white);
+}
+
+.events-section .section-heading p,
+.events-section .event-card p {
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.event-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.event-card {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.16);
+  box-shadow: none;
+}
+
+.gallery-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-auto-flow: dense;
+}
+
+.gallery-item {
+  position: relative;
+  min-height: 260px;
+  margin: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--green-dark);
+}
+
+.gallery-item.large {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  min-height: inherit;
+  object-fit: cover;
+  transition: transform 0.45s ease, filter 0.45s ease;
+}
+
+.gallery-item:nth-child(2) img { object-position: 50% 62%; }
+.gallery-item:nth-child(3) img { object-position: 50% 48%; }
+.gallery-item:nth-child(4) img { object-position: center; }
+.gallery-item:nth-child(5) img { object-position: center; }
+.gallery-item:nth-child(6) img { object-position: 42% 50%; }
+.gallery-item:nth-child(7) img { object-position: center; }
+.gallery-item:nth-child(8) img { object-position: center; }
+.gallery-item:nth-child(9) img { object-position: center; }
+.gallery-item:nth-child(10) img { object-position: center; }
+.gallery-item:nth-child(11) img { object-position: center; }
+.gallery-item:nth-child(12) img { object-position: center; }
+.gallery-item:nth-child(13) img { object-position: center; }
+.gallery-item:nth-child(14) img { object-position: center; }
+.gallery-item:nth-child(15) img { object-position: center; }
+
+.gallery-item::after {
+  position: absolute;
+  inset: auto 0 0;
+  height: 46%;
+  content: "";
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.72));
+}
+
+.gallery-item:hover img {
+  transform: scale(1.06);
+}
+
+.gallery-item figcaption {
+  position: absolute;
+  z-index: 1;
+  left: 18px;
+  bottom: 16px;
+  color: var(--white);
+  font-weight: 900;
+}
+
+.merch-section {
+  background: #fbfaf5;
+}
+
+.merch-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.merch-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(0, 1fr);
+  gap: 24px;
+  align-items: stretch;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--white);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.merch-visual {
+  display: grid;
+  min-height: 320px;
+  place-items: center;
+  padding: 28px;
+  background:
+    linear-gradient(rgba(31, 77, 54, 0.08), rgba(31, 77, 54, 0.08)),
+    url("assets/hmh-open-field.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.shirt-mockup {
+  position: relative;
+  display: grid;
+  width: min(260px, 100%);
+  aspect-ratio: 0.86;
+  place-items: center;
+  border-radius: 34px 34px 18px 18px;
+  background: var(--green);
+  box-shadow: 0 24px 50px rgba(18, 49, 32, 0.28);
+}
+
+.shirt-mockup::before,
+.shirt-mockup::after {
+  position: absolute;
+  top: 34px;
+  width: 74px;
+  height: 116px;
+  border-radius: 18px;
+  content: "";
+  background: var(--green);
+}
+
+.shirt-mockup::before {
+  left: -46px;
+  transform: rotate(18deg);
+}
+
+.shirt-mockup::after {
+  right: -46px;
+  transform: rotate(-18deg);
+}
+
+.shirt-mockup img {
+  position: relative;
+  z-index: 1;
+  width: 54%;
+  padding: 8px;
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.hat-mockup {
+  position: relative;
+  display: grid;
+  width: min(310px, 100%);
+  min-height: 190px;
+  place-items: center;
+}
+
+.hat-crown {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  width: min(240px, 88%);
+  height: 132px;
+  place-items: center;
+  border-radius: 120px 120px 38px 38px;
+  background: var(--black);
+  box-shadow: 0 24px 50px rgba(18, 49, 32, 0.28);
+}
+
+.hat-crown img {
+  width: 46%;
+  padding: 7px;
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.hat-bill {
+  position: absolute;
+  right: 4%;
+  bottom: 18px;
+  width: 58%;
+  height: 54px;
+  border-radius: 14px 90px 90px 20px;
+  background: var(--gold);
+  transform: rotate(6deg);
+}
+
+.merch-copy {
+  display: grid;
+  align-content: center;
+  gap: 12px;
+  padding: 28px 28px 28px 0;
+}
+
+.merch-status {
+  width: fit-content;
+  border-radius: 999px;
+  background: var(--gold-soft);
+  color: var(--green);
+  font-size: 0.78rem;
+  font-weight: 900;
+  padding: 7px 11px;
+  text-transform: uppercase;
+}
+
+.merch-copy h3 {
+  color: var(--green);
+}
+
+.merch-copy p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.merch-btn {
+  width: fit-content;
+  margin-top: 6px;
+  background: var(--green);
+  color: var(--white);
+}
+
+.contact-section {
+  grid-template-columns: minmax(0, 0.9fr) minmax(340px, 0.75fr);
+}
+
+.socials {
+  display: flex;
+  gap: 12px;
+  margin-top: 26px;
+}
+
+.socials a {
+  display: grid;
+  width: 46px;
+  height: 46px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--green);
+  color: var(--white);
+}
+
+.socials svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+.contact-form {
+  display: grid;
+  gap: 16px;
+  padding: clamp(24px, 4vw, 36px);
+}
+
+.contact-form h3 {
+  color: var(--green);
+}
+
+.contact-form label {
+  display: grid;
+  gap: 7px;
+  color: var(--green-dark);
+  font-weight: 800;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  border: 1px solid rgba(31, 77, 54, 0.22);
+  border-radius: var(--radius);
+  padding: 13px 14px;
+  color: var(--ink);
+  font: inherit;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-form textarea {
+  resize: vertical;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: var(--gold);
+  box-shadow: 0 0 0 4px rgba(212, 175, 55, 0.18);
+  outline: none;
+}
+
+.error {
+  display: none;
+  color: #9b1c1c;
+  font-weight: 700;
+}
+
+.contact-form label.invalid .error {
+  display: block;
+}
+
+.form-status {
+  min-height: 24px;
+  margin: 0;
+  color: var(--green);
+  font-weight: 800;
+}
+
+.site-footer {
+  display: grid;
+  gap: 8px;
+  justify-items: center;
+  padding: 42px 18px;
+  background: var(--black);
+  color: var(--white);
+  text-align: center;
+}
+
+.footer-logo {
+  width: min(210px, 70vw);
+  max-height: 126px;
+  margin-bottom: 8px;
+  border-radius: var(--radius);
+  object-fit: contain;
+}
+
+.site-footer p,
+.site-footer small {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (max-width: 1180px) {
+  .card-grid.five,
+  .event-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .merch-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 920px) {
+  .nav-toggle {
+    display: block;
+  }
+
+  .site-nav {
+    position: absolute;
+    top: 100%;
+    right: 18px;
+    left: 18px;
+    display: grid;
+    gap: 0;
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--white);
+    color: var(--ink);
+    box-shadow: var(--shadow);
+    transform: translateY(-12px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .site-nav.open {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .site-nav a {
+    padding: 12px;
+  }
+
+  .two-column,
+  .legacy-section,
+  .split-band,
+  .split-band.reverse,
+  .contact-section {
+    grid-template-columns: 1fr;
+  }
+
+  .merch-card {
+    grid-template-columns: 1fr;
+  }
+
+  .merch-copy {
+    padding: 0 28px 28px;
+  }
+
+  .founders-photo,
+  .visual-card {
+    min-height: 360px;
+  }
+
+  .founders-photo img {
+    min-height: 360px;
+  }
+
+  .gallery-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 680px) {
+  .site-header {
+    padding: 12px 16px;
+  }
+
+  .brand {
+    min-width: 0;
+  }
+
+  .brand-logo {
+    width: 54px;
+    height: 42px;
+    padding: 4px;
+  }
+
+  .brand small {
+    display: none;
+  }
+
+  .hero {
+    min-height: 92vh;
+  }
+
+  .hero-overlay {
+    background: linear-gradient(0deg, rgba(18, 49, 32, 0.88), rgba(18, 49, 32, 0.38));
+  }
+
+  h1 {
+    font-size: clamp(2.45rem, 14vw, 4rem);
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+  }
+
+  .card-grid.five,
+  .event-grid,
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .merch-visual {
+    min-height: 280px;
+  }
+
+  .shirt-mockup {
+    width: min(210px, 78%);
+  }
+
+  .shirt-mockup::before,
+  .shirt-mockup::after {
+    width: 56px;
+    height: 96px;
+  }
+
+  .shirt-mockup::before {
+    left: -34px;
+  }
+
+  .shirt-mockup::after {
+    right: -34px;
+  }
+
+  .merch-btn {
+    width: 100%;
+  }
+
+  .gallery-item.large {
+    grid-column: auto;
+    grid-row: auto;
+  }
+
+  .gallery-item {
+    min-height: 250px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
