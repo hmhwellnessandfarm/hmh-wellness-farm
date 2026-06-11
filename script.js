@@ -3,7 +3,7 @@ const nav = document.querySelector("[data-nav]");
 const navToggle = document.querySelector("[data-nav-toggle]");
 const navLinks = [...document.querySelectorAll(".site-nav a")];
 const sections = [...document.querySelectorAll("main section[id]")];
-const form = null;
+const form = document.querySelector("#fake-form");
 const statusEl = document.querySelector(".form-status");
 
 document.getElementById("year").textContent = new Date().getFullYear();
