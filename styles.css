@@ -1029,3 +1029,8 @@ h3 {
     animation-duration: 0.01ms !important;
   }
 }
+
+.reveal {
+  opacity: 1 !important;
+  transform: none !important;
+}
