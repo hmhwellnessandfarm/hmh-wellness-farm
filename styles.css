@@ -1034,3 +1034,28 @@ h3 {
   opacity: 1 !important;
   transform: none !important;
 }
+
+.contact-form {
+  display: grid !important;
+  gap: 22px !important;
+}
+
+.contact-form label {
+  display: grid !important;
+  gap: 10px !important;
+  font-weight: 800 !important;
+  color: #103d25 !important;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100% !important;
+  padding: 18px !important;
+  border: 2px solid #d5ded7 !important;
+  border-radius: 14px !important;
+  font-size: 18px !important;
+}
+
+.contact-form button {
+  width: 100% !important;
+}
