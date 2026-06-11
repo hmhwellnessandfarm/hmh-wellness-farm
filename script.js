@@ -72,7 +72,7 @@ form.querySelectorAll("input, textarea").forEach((field) => {
 });
 
 form.addEventListener("submit", (event) => {
-  event.preventDefault();
+  // event.preventDefault();
   const fields = [...form.querySelectorAll("input, textarea")];
   const isValid = fields.every(validateField);
 
